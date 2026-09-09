@@ -73,12 +73,12 @@ A modern city skyline at night with illuminated skyscrapers and reflections on w
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7fa592fa-75a4-4483-8828-a4e0b6d19fb2" />
 
 
-Tall illuminated skyscrapers
-Central tower as the main focal point
-Wet road reflecting city lights
-Minimal traffic and human activity
-Dark blue night sky
-Symmetrical composition with a calm atmosphere
+* Tall illuminated skyscrapers
+* Central tower as the main focal point
+* Wet road reflecting city lights
+* Minimal traffic and human activity
+* Dark blue night sky
+* Symmetrical composition with a calm atmosphere
 
 ## Refined Prompt:
 
@@ -89,12 +89,12 @@ A futuristic metropolitan city at night after rainfall, featuring a towering ill
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2bb12d2-3652-4e3b-ba33-339a5e60fa3c" />
 
 
-Detailed urban street environment
-Modern commercial buildings with bright signs
-Vehicles creating red light trails
-Strong reflections on rain-soaked roads
-More realistic city activity
-Cinematic mood with enhanced lighting effects
+* Detailed urban street environment
+* Modern commercial buildings with bright signs
+* Vehicles creating red light trails
+* Strong reflections on rain-soaked roads
+* More realistic city activity
+* Cinematic mood with enhanced lighting effects
 
 ## Comparison Report:
 
@@ -126,12 +126,12 @@ A busy city street during rainfall with people carrying umbrellas and reflection
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc25fbc2-f615-47c2-b2cf-3cebd50d12ff" />
 
 
-Pedestrians carrying umbrellas
-Rainy weather clearly visible
-Wet pavement with reflections
-Blurred city background
-Focus on a central pedestrian
-Soft natural lighting
+* Pedestrians carrying umbrellas
+* Rainy weather clearly visible
+* Wet pavement with reflections
+* Blurred city background
+* Focus on a central pedestrian
+* Soft natural lighting
 
 ## Refined Prompt:
 
@@ -142,12 +142,12 @@ A crowded metropolitan street during heavy rainfall, pedestrians carrying colorf
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa976e6e-fdbd-47cd-8b31-589014e4fc70" />
 
 
-Larger and busier city street
-More pedestrians and umbrellas
-Detailed buildings and storefronts
-Visible signboards and city lights
-Strong reflections on wet pavement
-Greater depth and realism
+* Larger and busier city street
+* More pedestrians and umbrellas
+* Detailed buildings and storefronts
+* Visible signboards and city lights
+* Strong reflections on wet pavement
+* Greater depth and realism
 
 ## Comparison Report:
 
