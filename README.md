@@ -72,6 +72,7 @@ A modern city skyline at night with illuminated skyscrapers and reflections on w
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7fa592fa-75a4-4483-8828-a4e0b6d19fb2" />
 
+
 Tall illuminated skyscrapers
 Central tower as the main focal point
 Wet road reflecting city lights
@@ -86,6 +87,7 @@ A futuristic metropolitan city at night after rainfall, featuring a towering ill
 ## Output Characteristics (Image 2):
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2bb12d2-3652-4e3b-ba33-339a5e60fa3c" />
+
 
 Detailed urban street environment
 Modern commercial buildings with bright signs
@@ -123,6 +125,7 @@ A busy city street during rainfall with people carrying umbrellas and reflection
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc25fbc2-f615-47c2-b2cf-3cebd50d12ff" />
 
+
 Pedestrians carrying umbrellas
 Rainy weather clearly visible
 Wet pavement with reflections
@@ -137,6 +140,7 @@ A crowded metropolitan street during heavy rainfall, pedestrians carrying colorf
 ## Output Characteristics (Image 2):
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa976e6e-fdbd-47cd-8b31-589014e4fc70" />
+
 
 Larger and busier city street
 More pedestrians and umbrellas
