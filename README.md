@@ -355,7 +355,7 @@ AI Processing
         │
  ┌──────┼──────┐
  
- ▼      ▼      ▼
+ ▼       ▼       ▼
  
 Email  Minutes Tasks
 
