@@ -41,9 +41,7 @@ The automated workflow consists of six major modules:
 
 Symposium Planning
         │
-        
         ▼
-        
 Email Writing Automation
         │
         ▼
@@ -66,7 +64,7 @@ Final Symposium Management Report
 
 ---
 
-## Module 1 – Email Writing Automation:
+## Module 1 – Email Writing Automation
 ## Purpose:
 
 To automatically generate professional emails for symposium communication.
@@ -105,7 +103,7 @@ TechNova 2026
 3. Generates multiple email formats instantly.
 ---
 
-## Module 2 – Meeting Minutes Generation:
+## Module 2 – Meeting Minutes Generation
 ## Purpose:
 
 To automatically create records of symposium planning meetings.
@@ -151,7 +149,7 @@ Meeting Date: 05 September 2026
 3. Quick generation of reports.
 ---
 
-## Module 3 – Task Planning Automation:
+## Module 3 – Task Planning Automation
 ## Purpose:
 
 To organize symposium activities into manageable tasks.
@@ -181,7 +179,7 @@ Create a task plan for organizing a college symposium with responsibilities and 
 3. Improved coordination.
 ---
 
-## Module 4 – Project Scheduling Automation:
+## Module 4 – Project Scheduling Automation
 ## Purpose:
 
 To generate a timeline for symposium activities.
@@ -221,143 +219,138 @@ Report Preparation                         ███
 1. Better time management.
 2. Easy milestone tracking.
 3. Improved event execution.
-
 ---
 
 ## Module 5 – Requirement Documentation Automation
-Purpose
+## Purpose:
 
 To automatically prepare symposium requirements.
 
-Input Prompt
-
+---
+## Input Prompt:
+```
 Generate requirement documentation for a college symposium management system.
-# Instructions:
-1.	Examine the Given Image: Study the image to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
-2.	Write the Basic Prompt: Start with a simple description of the primary elements in the image (e.g., "A sunset over a mountain range").
-3.	Refine and Add Details: Improve the prompt by incorporating specifics like colors, shapes, textures, and style (e.g., "A sunset over purple mountains, with a golden sky and a calm river flowing through the valley").
-4.	Use the Selected Tool: Choose an image generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
-5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original image.
-6.	Save and Document: Save the generated image and document your prompt alongside any observations on how the output compares to the original.
+```
+## AI Generated Output:
 
----   
-# Deliverables:
-1.	The Original Image: Provided image for reference.
-2.	The Final Generated Image: The image created using your refined prompt.
-3.	Prompts Used: The text prompts created during the experiment.
-4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+## Functional Requirements:
+
+1. Participant Registration
+2. Event Scheduling
+3. Speaker Management
+4. Volunteer Management
+5. Result Announcement
+6. Certificate Generation
+   
+## Non-Functional Requirements:
+
+1. Security
+2. Reliability
+3. Availability
+4. Performance
+5. Scalability
+6. User Friendliness
+
+## Hardware Requirements:
+
+* Computer Systems
+* Projectors
+* Internet Connection
+* Audio Equipment
+  
+## Software Requirements:
+
+* Web Browser
+* Registration Portal
+* Database System
+* AI Assistant
+---
+## Benefits:
+
+* Standardized documentation.
+* Improved project clarity.
+* Faster requirement gathering.
+
+## Module 6 – FAQ Generation Automation
+## Purpose:
+
+To provide automated responses to participant questions.
 
 ---
-# Example 1: Night City Skyline
-## Basic Prompt:
+## Input Prompt:
+```
+Generate FAQs for students attending a college symposium.
+```
+## AI Generated Output:
+## Frequently Asked Questions:
 
-A modern city skyline at night with illuminated skyscrapers and reflections on wet streets.
+### Q1. How can I register?
 
-## Output Characteristics (Image 1):
+Register through the official symposium website.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7fa592fa-75a4-4483-8828-a4e0b6d19fb2" />
+### Q2. Is there a registration fee?
 
+No. Participation is free.
 
-* Tall illuminated skyscrapers
-* Central tower as the main focal point
-* Wet road reflecting city lights
-* Minimal traffic and human activity
-* Dark blue night sky
-* Symmetrical composition with a calm atmosphere
+### Q3. Will certificates be provided?
 
-## Refined Prompt:
+Yes. E-certificates will be provided.
 
-A futuristic metropolitan city at night after rainfall, featuring a towering illuminated skyscraper at the center, modern glass buildings, glowing street lamps, wet asphalt roads with vivid reflections, cinematic lighting, urban architecture, ultra-realistic photography, HDR, 8K resolution, dramatic night atmosphere.
+### Q4. Who can participate?
 
-## Output Characteristics (Image 2):
+Students from all departments and colleges.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2bb12d2-3652-4e3b-ba33-339a5e60fa3c" />
+### Q5. What events are available?
 
+Paper Presentation, Coding Contest, Quiz, Workshop, and Project Expo.
 
-* Detailed urban street environment
-* Modern commercial buildings with bright signs
-* Vehicles creating red light trails
-* Strong reflections on rain-soaked roads
-* More realistic city activity
-* Cinematic mood with enhanced lighting effects
+### Q6. How can I contact organizers?
 
-## Comparison Report:
-
-| Aspect        | Basic Prompt Image (Image 1)   | Refined Prompt Image (Image 2)     |
-| ------------- | ------------------------------ | ---------------------------------- |
-| Main Focus    | Skyline and central skyscraper | Street-level city environment      |
-| Buildings     | Few prominent skyscrapers      | More detailed commercial buildings |
-| Traffic       | Almost none                    | Vehicles with light trails         |
-| Reflections   | Visible on wet road            | Strong and colorful reflections    |
-| Lighting      | Basic night illumination       | Cinematic lighting and neon glow   |
-| Atmosphere    | Calm and quiet                 | Dynamic and lively                 |
-| Details       | Moderate                       | Highly detailed                    |
-| Realism       | Realistic                      | More photorealistic                |
-| Perspective   | Centered skyline view          | Street photography perspective     |
-| Visual Impact | Simple and elegant             | Rich and immersive                 |
-
-## Observation:
-
-The basic prompt generated a clean city skyline dominated by a central skyscraper and wet road reflections. The refined prompt introduced urban activity, illuminated buildings, vehicle light trails, and cinematic lighting, resulting in a more realistic and visually engaging city scene.
+Through the contact details provided on the symposium website.
 
 ---
-# Example 2: Rainy Street with Umbrellas
-## Basic Prompt:
+## Benefits:
 
-A busy city street during rainfall with people carrying umbrellas and reflections on the wet road.
+* Reduces repetitive queries.
+* Provides instant support.
+* Improves participant satisfaction.
+---
+## Integrated Workflow Process:
 
-## Output Characteristics (Image 1):
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc25fbc2-f615-47c2-b2cf-3cebd50d12ff" />
-
-
-* Pedestrians carrying umbrellas
-* Rainy weather clearly visible
-* Wet pavement with reflections
-* Blurred city background
-* Focus on a central pedestrian
-* Soft natural lighting
-
-## Refined Prompt:
-
-A crowded metropolitan street during heavy rainfall, pedestrians carrying colorful umbrellas, illuminated shop signs, realistic raindrops, wet roads reflecting city lights, cinematic atmosphere, professional street photography, ultra-realistic, HDR, 8K resolution.
-
-## Output Characteristics (Image 2):
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa976e6e-fdbd-47cd-8b31-589014e4fc70" />
-
-
-* Larger and busier city street
-* More pedestrians and umbrellas
-* Detailed buildings and storefronts
-* Visible signboards and city lights
-* Strong reflections on wet pavement
-* Greater depth and realism
-
-## Comparison Report:
-
-| Aspect              | Basic Prompt Image (Image 1)    | Refined Prompt Image (Image 2) |
-| ------------------- | ------------------------------- | ------------------------------ |
-| Main Focus          | Single pedestrian with umbrella | Entire crowded street scene    |
-| Crowd Density       | Moderate                        | High                           |
-| Buildings           | Blurred background              | Detailed urban architecture    |
-| Rain Effect         | Visible rainfall                | Enhanced rainfall atmosphere   |
-| Reflections         | Moderate reflections            | Strong reflections from lights |
-| Lighting            | Natural soft lighting           | Cinematic street lighting      |
-| Urban Details       | Minimal                         | Shop signs and city activity   |
-| Realism             | Realistic                       | Highly photorealistic          |
-| Depth & Perspective | Focus on central figure         | Deeper street perspective      |
-| Visual Impact       | Simple and clean                | Dynamic and immersive          |
-
-## Observation:
-
-The basic prompt produced a straightforward rainy street scene focused mainly on pedestrians carrying umbrellas. The refined prompt added urban details such as storefronts, illuminated signs, crowd density, and atmospheric lighting, creating a richer and more realistic city environment.
+User Requirement
+        │
+        ▼
+Structured Prompt Creation
+        │
+        ▼
+AI Processing
+        │
+ ┌──────┼──────┐
+ ▼      ▼      ▼
+Email  Minutes Tasks
+ │       │      │
+ └───────┼──────┘
+         ▼
+Project Scheduling
+         ▼
+Requirement Documentation
+         ▼
+FAQ Generation
+         ▼
+Final Symposium Management Report
 
 ---
-## Conclusion:
-By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
+## Advantages of Automation:
 
+* Reduces manual work by more than 70%.
+* Improves document quality.
+* Faster communication.
+* Better event planning.
+* Accurate record keeping.
+* Increased productivity.
+* Enhanced participant support.
 ---
-## Result:
 
-Thus, the ability of text-to-image generation models to reproduce images through carefully designed prompts was successfully demonstrated, and the influence of prompt refinement on image quality and realism was studied.
+# Result:
+
+A complete automated workflow was developed for College Symposium Management using structured prompts to generate emails, meeting minutes, task plans, project schedules, requirement documents, and FAQs efficiently.
