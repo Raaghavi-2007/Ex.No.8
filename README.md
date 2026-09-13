@@ -40,8 +40,10 @@ The automated workflow consists of six major modules:
 ## Workflow Architecture:
 
 Symposium Planning
+
         │
         ▼
+        
 Email Writing Automation
         │
         ▼
