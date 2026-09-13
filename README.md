@@ -41,6 +41,7 @@ The automated workflow consists of six major modules:
 
 Symposium Planning
         │
+        
         ▼
         
 Email Writing Automation
