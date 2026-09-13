@@ -215,7 +215,7 @@ Create a four-week schedule for conducting a technical symposium.
 ---
 ## Gantt-Style Schedule:
 
-Task                        W1   W2   W3   W4
+Task                         W1   W2   W3   W4
 
 
 Planning                   ███
@@ -354,6 +354,7 @@ AI Processing
 
         │
  ┌──────┼──────┐
+ 
  ▼      ▼      ▼
  
 Email  Minutes Tasks
