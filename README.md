@@ -45,23 +45,35 @@ Symposium Planning
         ▼
         
 Email Writing Automation
+
         │
         ▼
+        
 Meeting Minutes Generation
+
         │
         ▼
+        
 Task Planning
+
         │
         ▼
+        
 Project Scheduling
+
         │
         ▼
+        
 Requirement Documentation
+
         │
         ▼
+        
 FAQ Generation
+
         │
         ▼
+        
 Final Symposium Management Report
 
 ---
@@ -205,14 +217,23 @@ Create a four-week schedule for conducting a technical symposium.
 
 Task                        W1   W2   W3   W4
 
+
 Planning                   ███
+
 Budget Approval            ███
+
 Speaker Invitations             ███
+
 Venue Booking                   ███
+
 Registration Setup              ███
+
 Publicity Campaign                   ███
+
 Volunteer Training                   ███
+
 Event Execution                           ███
+
 Report Preparation                         ███
 
 ---
@@ -320,25 +341,39 @@ Through the contact details provided on the symposium website.
 ## Integrated Workflow Process:
 
 User Requirement
+
         │
         ▼
+        
 Structured Prompt Creation
+
         │
         ▼
+        
 AI Processing
+
         │
  ┌──────┼──────┐
  ▼      ▼      ▼
+ 
 Email  Minutes Tasks
+
  │       │      │
  └───────┼──────┘
          ▼
+         
 Project Scheduling
+
          ▼
+         
 Requirement Documentation
+
          ▼
+         
 FAQ Generation
+
          ▼
+         
 Final Symposium Management Report
 
 ---
