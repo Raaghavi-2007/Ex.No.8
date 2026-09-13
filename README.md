@@ -361,6 +361,7 @@ Email  Minutes Tasks
 
  │       │      │
  └───────┼──────┘
+ 
          ▼
          
 Project Scheduling
